@@ -1,5 +1,6 @@
 #python example for getting access token that expires in 1 min and a refresh token that
-#expires after 30 secs using dummyjson. Then refresh the refresh token and call the apis. When the access token expires, refresh that as well
+#expires after 30 secs using dummyjson. 
+#Then refresh the refresh token and call the apis. When the access token expires, refresh that as well
 
 import time
 import requests
